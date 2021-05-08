@@ -67,7 +67,33 @@ src: url('fonts/futura_light_bt[1].ttf'); /* file name */
   color : rgb(255, 255, 255);
 }
 
+.partnerimage6{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   
+ 
 
+}
+.partnerimage7{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   
+ 
+
+}
+.partnerimage8{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   
+ 
+
+}
 .title2{
   padding: 20x;
   margin: 10px;
@@ -92,6 +118,17 @@ src: url('fonts/futura_light_bt[1].ttf'); /* file name */
   text-align: center;
   font-family: Brandon Grotesque;
   font-size: 40px;
+  color : white;
+ 
+}
+.aboutcenter{
+  padding: 50x;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin: 20px;
+  text-align: center;
+  font-family: Brandon Grotesque;
+  font-size: 50px;
   color : white;
  
 }
@@ -295,6 +332,14 @@ src: url('fonts/futura_light_bt[1].ttf'); /* file name */
   margin-left: auto;
   margin-right: auto;
   margin-top: 5px;
+}
+.banner2{
+  /* width: 100%; */
+  display: block;
+  width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .bottom{
